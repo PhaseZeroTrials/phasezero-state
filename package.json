@@ -1,18 +1,28 @@
 {
-    "name": "@kevinjyee/phasezero-state",
-    "version": "1.0.0",
-    "description": "PZ Middleware State",
-    "main": "index.ts",
-    "files": [
-        "*"
-    ],
-    "scripts": {},
-    "publishConfig": {
-        "@PhaseZeroTrials:registry": "https://npm.pkg.github.com/"
-    },
-    "dependencies": {
-        "axios": "^1.6.0"
-    },
-    "author": "",
-    "license": "ISC",
+  "name": "@phasezerotrials/phasezero-state",
+  "version": "1.0.0",
+  "description": "PZ Middleware State",
+  "main": "index.ts",
+  "files": [
+    "*"
+  ],
+  "scripts": {},
+  "publishConfig": {
+    "@PhaseZeroTrials:registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "test": "exit 0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhaseZeroTrials/phasezero-state.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PhaseZeroTrials/phasezero-state/issues"
+  },
+  "homepage": "https://github.com/PhaseZeroTrials/phasezero-state#readme"
 }
