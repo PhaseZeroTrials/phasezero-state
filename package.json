@@ -6,7 +6,9 @@
   "files": [
     "*"
   ],
-  "scripts": {},
+  "scripts": {
+      "test": "exit 0"
+  },
   "publishConfig": {
     "@PhaseZeroTrials:registry": "https://npm.pkg.github.com/"
   },
