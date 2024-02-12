@@ -8,14 +8,11 @@
     ],
     "scripts": {},
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "@PhaseZeroTrials:registry": "https://npm.pkg.github.com/"
     },
     "dependencies": {
         "axios": "^1.6.0"
     },
     "author": "",
     "license": "ISC",
-    "publishConfig": {
-        "@kevinjyee:registry": "https://npm.pkg.github.com"
-    }
 }
